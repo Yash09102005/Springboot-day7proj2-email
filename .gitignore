@@ -1,0 +1,30 @@
+# Maven target folder
+target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code files
+.vscode/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Application properties (optional if sensitive)
+# src/main/resources/application.properties
